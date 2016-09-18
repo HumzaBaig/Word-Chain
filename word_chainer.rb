@@ -8,9 +8,7 @@ class WordChainer
   end
 
   def adjacent_words(word)
-
+    adjacent_words_arr = []
+    
   end
 end
-
-a = WordChainer.new("dictionary.txt")
-p a
